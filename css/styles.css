@@ -54,6 +54,7 @@ main {
 
 	.portfolio {
     position: absolute;
+    margin: 0 auto;
     margin-top: 10rem;
   }
 }
